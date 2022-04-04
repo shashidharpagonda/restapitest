@@ -1,11 +1,11 @@
 package org.com.restapitest.restapitest;
 
-import static org.junit.Assert.assertTrue;
+import static org.testng.Assert.assertTrue;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 /**
- * Unit test for simple App.
+ * Unit test for simple App
  */
 public class AppTest 
 {
